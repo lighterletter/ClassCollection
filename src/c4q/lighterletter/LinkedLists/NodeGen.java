@@ -2,7 +2,7 @@ package c4q.lighterletter.LinkedLists;
 
 /**
  * Created by c4q-john on 11/27/15.
- *
+ * <p/>
  * Another ay to implement a node, in this case, using generics.
  */
 public class NodeGen<E> {
@@ -10,7 +10,7 @@ public class NodeGen<E> {
     E data;
 }
 
-class singlyList{
+class singlyList {
     NodeGen head;
     int data;
 
